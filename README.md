@@ -1,22 +1,17 @@
-### 🔬 About Me
-I am a passionate Freelance Bioinformatician from India with expertise in developing reproducible pipelines to perform computational analysis of high-throughput sequencing data. I work across genomics, transcriptomics, epigenomics and microbiome projects, transforming raw biological data into meaningful scientific insights.
-
-I am open for the roles including bioinformatics researcher, bioinformatics analyst, genome analyst and bioinformatics scientist involving in,
-✅ Research & Academia  
-✅ Bioinformatics in Industry (Genomics, Precision Medicine, Biotech)  
-✅ Pipeline Development (Snakemake / Nextflow)  
-✅ Bioinformatics Software & Tool Development  
-✅ Freelance Bioinformatics Consulting  
+<h1 align="center">Hi 👋, I'm Sindhu Agasthikumar</h1>
+<h3 align="center">Bioinformatics Researcher | Pipeline Developer | Computational Genomics</h3>
 
 ---
 
-### 🧬 Research & Technical Interests
-- Next-Generation Sequencing (NGS) data analysis
-- Systems and functional genomics
-- Population & evolutionary genomics
-- Multi-omics integration (RNA-seq, ATAC-seq, Methylome)
-- Automation of bioinformatics workflows
-- Reproducible research using pipelines & containers
+### 🔬 About Me
+I am a passionate **Bioinformatics Researcher** from **India**, skilled in developing **reproducible pipelines** and performing **computational analysis of high-throughput sequencing data**. My work spans genomics, transcriptomics, epigenomics, single-cell analysis, and microbiome projects, transforming raw biological data into actionable scientific insights.
+
+I am open to roles in:  
+✅ Research & Academia  
+✅ Industry Bioinformatics (Genomics / Biotech / Precision Medicine)  
+✅ Pipeline & Workflow Development (Snakemake / Nextflow)  
+✅ Bioinformatics Software & Tool Development  
+✅ Freelance Bioinformatics Consulting  
 
 ---
 
@@ -24,46 +19,52 @@ I am open for the roles including bioinformatics researcher, bioinformatics anal
 | Category | Tools & Technologies |
 |----------|----------------------|
 | Programming | Python, R, Bash, Perl, SQL |
-| NGS | FastQC, Trimmomatic, HISAT2, STAR, BWA, Bowtie2 |
-| Variant Analysis | GATK, Samtools, BCFtools, VCFtools |
+| NGS & Sequencing | FastQC, Trimmomatic, HISAT2, STAR, BWA, Bowtie2 |
+| Variant & Population Analysis | GATK, Samtools, BCFtools, PLINK, VCFtools, STRUCTURE |
 | RNA-Seq & Expression | DESeq2, edgeR, limma, StringTie, Kallisto, Salmon |
-| Epigenomics | Bismark, MethylKit, BS-Seeker |
+| Epigenomics & Methylome | Bismark, MethylKit, BS-Seeker |
 | ATAC-Seq | MACS2, DiffBind |
 | Single-cell | Seurat, Scanpy |
 | Microbiome | QIIME2, DADA2, MetaPhlAn |
-| Pipelines | Snakemake, Nextflow |
-| Containerization | Conda, Docker |
+| Pipelines & Workflow | Snakemake, Nextflow |
+| Containerization & Reproducibility | Conda, Docker |
 | Visualization | ggplot2, seaborn, matplotlib, plotly |
 
 ---
 
-### 📚 Portfolio Projects (Coming Soon 🚀)
-I am building a series of **bioinformatics pipelines** using best practices in reproducibility and workflow engineering:
+### 📚 Portfolio Projects
+I am actively building **bioinformatics pipelines** for reproducible research:
 
 | Project | Status |
 |---------|--------|
 | 🔬 RNA-seq analysis pipeline | Planned |
-| 🧬 Whole Genome Sequencing (WGS) variant analysis | Planned |
+| 🧬 Whole Genome Sequencing (WGS) pipeline | Planned |
 | 🌿 Methylome (Bisulfite-Seq) analysis | Planned |
-| 🧬 Methyl-transcriptome analysis | Planned |
-| 🔓 ATAC-seq chromatin accessibility pipeline | Planned |
-| 🧫 Microbiome (16S & shotgun metagenomics) pipeline | Planned |
+| 🧬 Methyl-transcriptome integration | Planned |
+| 🔓 ATAC-seq chromatin accessibility | Planned |
+| 🧫 Microbiome analysis (16S & shotgun) | Planned |
 | 🧪 Single-cell RNA-seq analysis | Planned |
-| 📊 Bioinformatics statistical tools & utilities | Planned |
+| 📊 Statistical & bioinformatics utility tools | Planned |
+
+> Each project will be published as a separate repository with full documentation, example data, and workflow instructions.
 
 ---
 
-### 🔗 Connect With Me
-- 🌐 ORCID: https://orcid.org/0000-0001-6282-8426  
-- 💼 LinkedIn: https://www.linkedin.com/in/sindhu-agasthikumar  
-- ✉️ Email: sindhuifgtb@gmail.com 
+### 📈 GitHub Stats
+![Sindhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sindhu-freelance-bioinformatician&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhu-freelance-bioinformatician&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with Me
+- 🌐 ORCID: [https://orcid.org/0000-0001-6282-8426](https://orcid.org/0000-0001-6282-8426)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/sindhu-agasthikumar](https://www.linkedin.com/in/sindhu-agasthikumar)  
 - 🌍 Country: India  
 
 ---
 
 ### 💡 Vision
-I aim to build **open-source bioinformatics solutions** that make complex genomics analyses **accessible, automated, and reproducible** for life science researchers worldwide.
+I aim to develop **open-source bioinformatics solutions** that make complex genomics analyses **accessible, automated, and reproducible** for life science researchers worldwide.
 
----
-
-⭐ **Feel free to explore my repositories and collaborate!**  
+⭐ **Explore my repositories and collaborate!**
