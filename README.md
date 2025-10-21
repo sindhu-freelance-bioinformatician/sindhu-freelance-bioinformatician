@@ -8,7 +8,7 @@ I am a passionate **Bioinformatics Researcher** from **India**, skilled in devel
 
 I am open to roles in:  
 ✅ Research & Academia  
-✅ Industry Bioinformatics (Genomics / Biotech / Precision Medicine)  
+✅ Industry Bioinformatics (Genomics / Biotech / Precision Agriculture)  
 ✅ Pipeline & Workflow Development (Snakemake / Nextflow)  
 ✅ Bioinformatics Software & Tool Development  
 ✅ Freelance Bioinformatics Consulting  
